@@ -1,6 +1,6 @@
 # Angry-Bird
 DILo chapter 5
-# Feature
+# Add Feature
 1. Add 1 Level Scene
 2. Add Bom and Particle Effect for OwlBird
 3. Win/Lose Panel
